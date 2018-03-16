@@ -5,7 +5,7 @@ Dependencies:
 
 pip install arxiv
 
-pip install pqdm
+pip install tqdm
 
 
 Usage:
